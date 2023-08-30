@@ -1,0 +1,44 @@
+# NOTE: We're only including things that would already be checked in to the repo
+# So we're not including things like .tox -- that will never be committed
+# We're excluding docs and tests
+tests
+docs
+recipes
+.github
+.circleci
+.travis.yaml
+.travis.yml
+.appveyor.yaml
+.appveyor.yml
+.coverage
+.codeclimate.yaml
+.codeclimate.yml
+.coveralls.yaml
+.coveralls.yml
+.dockerignore
+.prettierignore
+.idea
+.readthedocs.yaml
+.readthedocs.yml
+mkdocs.yaml
+coverage.xml
+htmlcov
+site
+.git-blame-ignore-revs
+.git
+.ruff_cache
+.pytest_cache
+.gitignore
+azure-pipelines.yml
+azure-pipelines.yaml
+CONTRIBUTING.md
+CHANGELOG.md
+.editorconfig
+.pre-commit-config.yaml
+.pre-commit-config.yml
+SECURITY.md
+.scrutinizer.yml
+.scrutinizer.yaml
+codemeta.json
+CITATION.cff
+Vagrantfile

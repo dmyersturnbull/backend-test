@@ -1,0 +1,7 @@
+# Copied from pyproject.toml's project.dependencies
+hypercorn >=0.14
+psycopg[binary] >=3.0
+psycopg_pool >= 3.0
+polars >=0.18
+fastapi >=0.100
+msgpack_asgi >=1.1
